@@ -1,1 +1,1 @@
-![MapBing](MapBing.jpg "MapBing Component")
+<img src="MapBing.jpg" alt="MapBing Component" width="200" />
